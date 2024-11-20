@@ -46,13 +46,13 @@ With ART Accelerator, instruction prefetch, CPU ICACHE and CPU DCACHE disabled:
 
 # WORK PROGRESS
 
-|           **WORK2DO**                                                                        |**Status**|**Deadline**|**Compile?**|**Author**|  **Necessary level**  |
-|:--------------------------------------------------------------------------------------------:|:--------:|:----------:|:----------:|:--------:|:---------------------:|
-|      Create a STM32F749ZGT6 projetc in STM32CUBEIDE                                          |Incomplete| 11/17/2024 |     Yes    |phu2011831|    Necessary          |
-|      Configure DMA/Interrupts                                                                |Incomplete| 11/24/2024 |            |          |    Unnecessary        |
-|      Add LVGL library, link button to library                                                |Incomplete| 11/24/2024 |            |          |    Unnecessary        |
-|Create 2 Screens: 1. Digital Speedometer Speed Meter KMH/MPH and 2. Displaying Value of Sensor|Incomplete| 11/30/2024 |            |          |    Necessary          |
-|      Write task to implement page navigation with the change page button                     |Incomplete| 12/07/2025 |            |          |    Necessary          |
+|           **WORK2DO**                                                                                 |**Status**|**Deadline**|**Compile?**|**Author**|  **Necessary level**  |
+|:-----------------------------------------------------------------------------------------------------:|:--------:|:----------:|:----------:|:--------:|:---------------------:|
+|      Create a STM32F749ZGT6 projetc in STM32CUBEIDE                                                   |Incomplete| 11/17/2024 |     Yes    |phu2011831|    Necessary          |
+|      Configure DMA/Interrupts                                                                         |Incomplete| 11/24/2024 |            |          |    Unnecessary        |
+|      Adding LVGL library, linking button (on board or peripheral) to library                          |Incomplete| 11/24/2024 |            |          |    Unnecessary        |
+|      Create 2 Screens: 1. Digital Speedometer Speed Meter KMH/MPH and 2. Displaying Value of Sensor   |Incomplete| 11/30/2024 |            |          |    Necessary          |
+|      Write tasks to implement page navigation with the change page button                             |Incomplete| 12/07/2025 |            |          |    Necessary          |
 
 
 # MAPPING PORT FOR HW
