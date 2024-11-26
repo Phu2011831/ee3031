@@ -4,7 +4,7 @@ Simple driver for ILI9341 320x240 TFT LCD with Touchscreen for STM32 microcontro
 Requires no DMA or Interrupts while still maintaining very fast screen draws. See performance analysis below
 
 Contains:
-  - main driver for initialization and basic functions "ILI9341_STM32_Driver"
+  - Main driver for initialization and basic functions "ILI9341_STM32_Driver"
   - GFX driver for advanced functionality (fonts, pictures)
   - Touchscreen driver
   - Example project with CubeMX built for STM32F746ZG Nucleo board
